@@ -3,7 +3,7 @@ Public documents needed for the KI Programm
 
 
 ## Langdock Settings
-### Workspace_Unternehmensbeschreibung
+### Workspace
 > Schlank halten — dieser Text ist in *jedem* Chat aktiv und kostet Kontext.
 
 ##### Ersetze "Firma"

@@ -1,52 +1,37 @@
-## Skill-Kopf (SKILL.md Frontmatter)
+> **Skill-Info** — der Skill-Manager liest diese drei Werte. *Interner Name* = technischer Identifier (kebab-case, wird Ordner/slug). *Sichtbarer Name* = Anzeigename. Der Inhalt steht unter der Linie.
 
-```yaml
----
-slug: firma-about
-name: [Firma] — brand reference
-description: Brand reference für [Firma] — Rechtsform, Kontakt, Signatur, Geschäftsmodell, Positionierung, Werte. Laden, sobald Infos oder Daten zu [Firma] gebraucht werden (z.B. E-Mail-Adresse, Signatur, Positionierung, rechtliche Angaben). Nicht für Produktfakten/Preise (→ firma-produkte).
----
-```
+- **Interner Name:** firma-about
+- **Sichtbarer Name:** [Firma] — brand reference
+- **Beschreibung:** Brand reference für [Firma] — Rechtsform, Kontakt, Signatur, Geschäftsmodell, Positionierung, Werte. Laden, sobald Infos oder Daten zu [Firma] gebraucht werden (z.B. E-Mail-Adresse, Signatur, Positionierung, rechtliche Angaben). Nicht für Produktfakten/Preise (→ firma-produkte).
 
 ---
-## Inhalt
 
-### Firma
+## Firma
 - **Name:**
-- **Marke / Slogan:** <!-- falls vorhanden -->
-- **Rechtsform (Legal structure):** <!-- z.B. Einzelunternehmen, GmbH -->
-- **Geschäftsmodell (Business model):** <!-- 1–2 Sätze: was wird verkauft, an wen -->
+- **Marke / Slogan:**
+- **Rechtsform:**
+- **Geschäftsmodell:**
 
-### Kontakt
+## Kontakt
 - **Website:**
 - **Kontakt-E-Mail:**
-- **Telefon:** <!-- optional -->
-- **Adresse / Sitz:** <!-- nur falls für Verträge/Impressum nötig -->
+- **Telefon:**
+- **Adresse / Sitz:**
 
-### Kommunikation
+## Kommunikation
 - **E-Mail-Signatur:**
-  ```
-  [Name]
-  [Rolle] · [Firma]
-  [Website] · [E-Mail]
-  ```
 
-### Positionierung
+## Positionierung
 - **Für wen (Zielgruppe):**
 - **Was uns ausmacht (1–3 Punkte):**
 
-### Werte
+## Werte
 -
 
-### Unterschied zu Wettbewerbern
+## Unterschied zu Wettbewerbern
 -
 
-### No-Gos
-- **Was wir NICHT sind / nicht machen:** <!-- hilft dem Modell, Grenzen zu kennen -->
+## No-Gos
+- **Was wir NICHT sind / nicht machen:**
 
-### Extra-Beschreibung
-<!-- alles Weitere, das nicht in die Felder oben passt -->
-
-## Abgrenzung — was hier NICHT hingehört
-- Tagesaktueller Grundton / Ton → `firma-brand-voice` (sonst Widerspruch zweier Quellen).
-- Produktdetails & Preise → `firma-produkte`.
+## Extra-Beschreibung

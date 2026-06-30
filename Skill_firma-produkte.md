@@ -1,20 +1,12 @@
-## Skill-Kopf (SKILL.md Frontmatter)
+> **Skill-Info** — der Skill-Manager liest diese drei Werte. *Interner Name* = technischer Identifier (kebab-case, wird Ordner/slug). *Sichtbarer Name* = Anzeigename. Der Inhalt steht unter der Linie.
 
-```yaml
----
-slug: firma-produkte
-name: [Firma] — Produkte
-description: Faktische Referenz zu den Produkten/Angeboten von [Firma] — Pakete, Preise, Lieferumfang, Status. Laden, sobald es um konkrete Angebote, Preise oder Leistungsumfang geht. Fakten, kein Marketing. Tonalität → firma-brand-voice.
----
-```
-
-> **Zweck:** Fakten über Angebote, Preise und Pakete. Faktisch, nicht werblich.
-> **Warum getrennt vom brand-Skill?** Preise und Produktdetails ändern sich häufiger als die Tonalität.
+- **Interner Name:** firma-produkte
+- **Sichtbarer Name:** [Firma] — Produkte
+- **Beschreibung:** Faktische Referenz zu den Produkten/Angeboten von [Firma] — Pakete, Preise, Lieferumfang, Status. Laden, sobald es um konkrete Angebote, Preise oder Leistungsumfang geht. Fakten, kein Marketing. Tonalität → firma-brand-voice.
 
 ---
-## Inhalt
 
-### Produkt / Paket: [Name]
+## Produkt / Paket: [Name]
 - **Beschreibung (1–2 Sätze):**
 - **Für wen:**
 - **Lieferumfang:**
@@ -23,9 +15,7 @@ description: Faktische Referenz zu den Produkten/Angeboten von [Firma] — Paket
 - **Dauer:**
 - **Voraussetzungen:**
 - **Preis:**
-- **Status:** <!-- aktiv / geplant / pausiert -->
+- **Status:**
 
-<!-- Block pro Produkt kopieren -->
-
-### Upsell-/Cross-Sell-Logik
-- <!-- welches Produkt führt zu welchem nächsten Schritt -->
+## Upsell-/Cross-Sell-Logik
+-
