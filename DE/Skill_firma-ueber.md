@@ -1,7 +1,7 @@
 > **Skill-Info** — der Skill-Manager liest diese drei Werte. *Interner Name* = technischer Identifier (kebab-case, wird Ordner/slug). *Sichtbarer Name* = Anzeigename. Der Inhalt steht unter der Linie.
 
 - **Interner Name:** firma-about
-- **Sichtbarer Name:** [Firma] — brand reference
+- **Sichtbarer Name:** Über [Firma]
 - **Beschreibung:** Brand reference für [Firma] — Rechtsform, Kontakt, Signatur, Geschäftsmodell, Positionierung, Werte. Laden, sobald Infos oder Daten zu [Firma] gebraucht werden (z.B. E-Mail-Adresse, Signatur, Positionierung, rechtliche Angaben). Nicht für Produktfakten/Preise (→ firma-produkte).
 
 ---
