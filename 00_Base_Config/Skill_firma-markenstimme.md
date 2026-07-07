@@ -1,7 +1,7 @@
 > **Skill-Info** — der Skill-Manager liest diese drei Werte. *Interner Name* = technischer Identifier (kebab-case, wird Ordner/slug). *Sichtbarer Name* = Anzeigename. Der Inhalt steht unter der Linie.
 
 - **Interner Name:** firma-brand-voice
-- **Sichtbarer Name:** [Firma] — Markenstimme
+- **Sichtbarer Name:** [Firma] — Brand Voice
 - **Beschreibung:** Brand Voice, Ton und Sprachregeln für [Firma]. Laden, sobald Text im Namen von [Firma] geschrieben wird: Social Posts, Blog, E-Mails, Website-Texte, Skripte, Angebote.
 
 ---

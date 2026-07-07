@@ -1,6 +1,10 @@
----
-name: kiflows-brandvoice
-description: Brand Voice, Ton und Sprachregeln für KiFlows (und Websmartik). Laden, sobald Text im Namen von KiFlows geschrieben wird: Social Posts, Blog, E-Mails, Website-Texte, Skripte, Angebote.
+> **Beispiel** — so sieht `Skill_firma-markenstimme.md` ausgefüllt aus (für KiFlows). Kopf = die drei Werte, Inhalt steht unter der Linie.
+> **Beispiel** — so sieht `Skill_firma-markenstimme.md` ausgefüllt aus (für KiFlows). Kopf = die drei Werte, Inhalt steht unter der Linie.
+
+- **Interner Name:** firma-brand-voice
+- **Sichtbarer Name:** KiFlows — Brand Voice
+- **Beschreibung:** Brand Voice, Ton und Sprachregeln für KiFlows (und Websmartik). Laden, sobald Text im Namen von KiFlows geschrieben wird: Social Posts, Blog, E-Mails, Website-Texte, Skripte, Angebote.
+
 ---
 
 # KiFlows Brand Voice
@@ -36,7 +40,4 @@ description: Brand Voice, Ton und Sprachregeln für KiFlows (und Websmartik). La
 - Fake-Dringlichkeit („Nur noch heute!") ohne echte, prüfbare Frist
 - Versprechen, die nicht gehalten werden können
 - Passiv-aggressiver oder herablassender Ton
-- Text, der klingt wie ein Roboter, der menschlich wirken will
-
-## Self-Check vor dem Veröffentlichen
-- Frage: „Würde ein skeptischer KMU-Inhaber bei diesem Text mit den Augen rollen?" Wenn ja → neu schreiben.
+- Text

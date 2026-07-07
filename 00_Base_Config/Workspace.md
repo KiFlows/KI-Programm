@@ -12,5 +12,5 @@
 -
 
 ### Model Instructions
-*Wie ich mit den Agents arbeite — NICHT Brand Voice (das ist der Außenauftritt). Hier: Ton mir gegenüber, Widerspruch erwünscht, Nachfragen vor großen Aktionen, Sprache, Format-Vorlieben.*
+*Diesen Teil auf ENGLISCH schreiben (technische Anweisung an die Modelle). How I work with the agents — NOT brand voice (that's external). Here: tone toward me, disagreement welcome, ask before big actions, language, format preferences.*
 -
